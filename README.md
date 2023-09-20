@@ -1,1 +1,1 @@
-# phage_rebooting_barcode_analysis
+This repo archives the barcode analysis of the paper "Cell-free synthesis of infective phages from in vitro assembled phage genomes for efficient phage engineering and production of large phage libraries". Due to upload size limitations please refer to the paper itself for instructions on how to download the sequencing data used in the script.
